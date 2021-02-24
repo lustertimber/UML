@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T02:16:13.362Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="AEPnnF13ItyL1vp1JEBM" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T02:16:35.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="IBEzQODZHNo8ckcihvvx" version="14.4.2" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1417" dy="1874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#283618" math="0" shadow="0">
       <root>
@@ -321,7 +321,7 @@
         <mxCell id="QCBsw2BgXKzsSaWibjLu-47" value="method" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="QCBsw2BgXKzsSaWibjLu-46">
           <mxGeometry width="100" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="QCBsw2BgXKzsSaWibjLu-48" value="Die" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="QCBsw2BgXKzsSaWibjLu-46">
+        <mxCell id="QCBsw2BgXKzsSaWibjLu-48" value="Die()" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="QCBsw2BgXKzsSaWibjLu-46">
           <mxGeometry x="100" width="130" height="28" as="geometry" />
         </mxCell>
         <mxCell id="QCBsw2BgXKzsSaWibjLu-62" value="Control.SetActive(true)" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="QCBsw2BgXKzsSaWibjLu-46">
@@ -339,7 +339,7 @@
         <mxCell id="QCBsw2BgXKzsSaWibjLu-50" value="method" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="QCBsw2BgXKzsSaWibjLu-49">
           <mxGeometry width="100" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="QCBsw2BgXKzsSaWibjLu-51" value="Respawn" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="QCBsw2BgXKzsSaWibjLu-49">
+        <mxCell id="QCBsw2BgXKzsSaWibjLu-51" value="Respawn()" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="QCBsw2BgXKzsSaWibjLu-49">
           <mxGeometry x="100" width="130" height="29" as="geometry" />
         </mxCell>
         <mxCell id="QCBsw2BgXKzsSaWibjLu-63" value="Control.Text = [Second count]" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;strokeColor=#DDA15E;fontColor=#FEFAE0;" vertex="1" parent="QCBsw2BgXKzsSaWibjLu-49">
